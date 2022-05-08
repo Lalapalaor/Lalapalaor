@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Lalapalaor
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C# and JavaScript, c++.
-
+- 🌱 I’m currently learning c++
